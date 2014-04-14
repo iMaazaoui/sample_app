@@ -27,7 +27,7 @@ group :assets do
 end
 
 group :test do
-  gem 'capybara'
+  gem 'capybara', '1.1.4'
   gem 'factory_girl_rails'
   gem 'cucumber-rails', :require => false
   gem 'database_cleaner'
