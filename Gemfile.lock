@@ -228,6 +228,7 @@ DEPENDENCIES
   rspec-rails
   sass-rails
   spork
+  sprockets
   sqlite3
   turbolinks
   uglifier
