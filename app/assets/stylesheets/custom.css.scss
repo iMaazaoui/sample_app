@@ -43,7 +43,7 @@ h2{
 	letter-spacing: -1px;
 	margin-bottom: 30px;
 	text-align: normal;
-	color: #999;
+	color: $gray-lighter;
 }
 
 p {
@@ -73,7 +73,7 @@ footer {
 	margin-top: 45px;
 	padding-top: 5px;
 	border-top: 1px solid #eaeaea;
-	color: #999;
+	color: $gray-lighter;
 	a {
 		color: #555;
 		&:hover {
@@ -92,6 +92,3 @@ footer {
 		margin-left: 10px;
 	}
 }
-
-
-
