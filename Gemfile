@@ -9,6 +9,7 @@ gem 'will_paginate'
 gem 'bootstrap-will_paginate'
 gem 'jquery-rails'
 gem 'turbolinks'
+gem 'protected_attributes'
 
 group :development, :test do
   gem 'sqlite3'
