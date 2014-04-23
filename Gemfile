@@ -17,7 +17,8 @@ group :development, :test do
   gem 'guard-rspec'
   gem 'guard-spork'
   gem 'childprocess'
-  gem 'spork'
+  gem 'spork-rails'
+  gem 'libnotify'
 end
 
 # Gems used only for assets and not required
